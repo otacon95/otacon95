@@ -10,5 +10,5 @@ package com.sample;
  * @author wjprakash
  */
 public class Test {
-    test.java(); // test  
+
 }
